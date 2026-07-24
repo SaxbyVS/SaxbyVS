@@ -6,6 +6,7 @@
 
 ⚽ Relive and review the beautiful game: [Futlog](https://futlog-jade.vercel.app/)
 
+📑 Split your Firefox tabs: [TabSlicer](https://addons.mozilla.org/en-US/firefox/addon/tabslicer/)
 <!--
 **SaxbyVS/SaxbyVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
