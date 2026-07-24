@@ -1,4 +1,10 @@
-## Hi there 👋
+## Currently Ideating
+
+🏋🏽💪🏼 SOON (Q3 2026): [Lokdin](lokdin.fit)
+
+📚 For your reading needs: [ReadReceipt](https://www.readreceipt.one/)
+
+⚽ Relive and review the beautiful game: [Futlog](https://futlog-jade.vercel.app/)
 
 <!--
 **SaxbyVS/SaxbyVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
