@@ -1,6 +1,6 @@
 ## Currently Ideating
 
-🏋🏽💪🏼 SOON (Q3 2026): [Lokdin](lokdin.fit)
+🏋🏽💪🏼 SOON (Q4 2026): [Lokdin](lokdin.fit)
 
 📚 For your reading needs: [ReadReceipt](https://www.readreceipt.one/)
 
